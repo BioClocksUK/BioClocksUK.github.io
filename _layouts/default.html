@@ -39,15 +39,14 @@
         </ul>
         {% endif %}
 
-        <ul class="left-nav">
-            <li>About</li>
-            <li>Team</li>
-        </ul>
 
         {% include left-nav.html %}
+
       </header>
       <section>
 
+        <h2>{{ page.title | default: site.title }}</h2>
+        
       {{ content }}
 
       </section>
