@@ -7,9 +7,9 @@ We are informal group of researches from Circadian field.
 We started as the UK Clock Club.
 
 
- <iframe src="clock-clubbers.html" title="Members location" style="width: 100%;"></iframe> 
+ <iframe src="clock-clubbers.html" title="Members location" style="width: 100%; height: 600;"></iframe> 
 
-![Members locations](assets/clock_clubbers.png)
+
 
 
 **I am bold**
