@@ -1,8 +1,13 @@
 ---
-title: About
+title: About BioClocks
 ---
 
-About ourselves
+We are informal group of researches from Circadian field.
+
+We started as the UK Clock Club.
+
+![Members locations](assets/clock_clubbers.png)
+
 
 **I am bold**
 
@@ -10,4 +15,5 @@ About ourselves
 * list
 * list
 
-### header
+### some header
+some text bellowe the header
