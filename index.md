@@ -1,8 +1,8 @@
 ---
-title: UK BioClocks
+title: BioClocks UK
 ---
 
-Wellcome to the research community interested in studying biological clocks.
+Welcome to the research community interested in studying biological clocks.
 
 It all started with a group of friends who developed a common passion and 
 subsequently got together with increasing frequency to enjoy this shared interest. 
