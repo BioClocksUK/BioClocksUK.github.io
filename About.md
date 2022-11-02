@@ -1,5 +1,5 @@
 ---
-title: About BioClocks
+title: About BioClocks UK
 ---
 
 We are informal group of researches from Circadian field.
