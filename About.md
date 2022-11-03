@@ -12,5 +12,5 @@ BioClocks UK is a hub for biological rhythm research in the UK, providing news, 
 
 ### What is UK Clock Club?
 
-The UK Clock Club has played a critical part in building a chronobiology research community in the UK. The first meeting of the series was held in 1983, and has since been held in over 12 different locations across the UK. Details of past Clock clubs and information about upcoming events can be found on the Home page.
+The UK Clock Club has played a critical part in building a chronobiology research community in the UK. The first meeting of the series was held in 1983, and has since been held in over 12 different locations across the UK. Details of past Clock clubs and information about upcoming events can be found on the [Home](https://bioclocksuk.github.io/index) page.
 
