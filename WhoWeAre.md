@@ -33,7 +33,7 @@ Antony Dodd is a circadian biologist who studies the role of the circadian clock
 Dr James Hodge, Associate Professor of Neuroscience, University of Bristol.
 
 We study how neural circuit activity underlies circadian rhythms, sleep and memory using Drosophila, molecular genetics, electrophysiology, optogenetics and computational neuroscience. We are interested in the fundamental biology of these behaviours and how they evolved. We are also interested in how circadian rhythms, sleep and memory are affected by ageing, drugs and diseases including Alzheimer’s, Parkinson’s, Down’s, schizophrenia, neuropathies and epilepsy (using human brain tissue). We collaborate with clinicians and Industry to study these diseases and test novel drugs. Related to food security we study the effect of neonicotinoid insecticides on fly and bee circadian rhythms and sleep.
-[(http://www.bristol.ac.uk/phys-pharm-neuro/people-new/hodge/](http://www.bristol.ac.uk/phys-pharm-neuro/people-new/hodge/)  
+[http://www.bristol.ac.uk/phys-pharm-neuro/people-new/hodge/](http://www.bristol.ac.uk/phys-pharm-neuro/people-new/hodge/)  
 [https://www.youtube.com/watch?v=MoS-9HgzCro)](https://www.youtube.com/watch?v=MoS-9HgzCro)
 
 
@@ -55,7 +55,7 @@ Professor C.P. (Bambos) Kyriacou, Professor of Behavioural Neurogenetics, Univer
 
 Professor Andrew Millar FRS FRSE, Chair of Systems Biology, SynthSys and School of Biological Sciences; University of Edinburgh
 
-Andrew Millar is a circadian systems biologist, and a past recipient of Aschoff’s Rule, a lifetime contribution award for chronobiology. Millar’s research group did experiments and modelling of plant and algal clocks. In parallel, Tomasz Zielinski in the group set up online management, analysis and visualisation of research data on biological clocks. The public BioDare2 resource [https://biodare2.ed.ac.uk] now holds over 1M time series from many species, some of which are Open. Andrew and Tomasz lead the University of Edinburgh’s Biological Research Data Management team, BioRDM.
+Andrew Millar is a circadian systems biologist, and a past recipient of Aschoff’s Rule, a lifetime contribution award for chronobiology. Millar’s research group did experiments and modelling of plant and algal clocks. In parallel, Tomasz Zielinski in the group set up online management, analysis and visualisation of research data on biological clocks. The public [BioDare2](https://biodare2.ed.ac.uk) resource  now holds over 1M time series from many species, some of which are Open. Andrew and Tomasz lead the University of Edinburgh’s Biological Research Data Management team, BioRDM.
 Andrew’s other interests include science policy and macroeconomics
 
 ![Hannah_Rees](https://user-images.githubusercontent.com/29427778/199305926-22d154d1-8309-44d0-9e78-502ad3e5beec.jpg)
