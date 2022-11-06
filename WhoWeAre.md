@@ -48,11 +48,6 @@ Dr Rebecca Hughes, PDRA, University of Manchester
 
 Professor C.P. (Bambos) Kyriacou, Professor of Behavioural Neurogenetics, University of Leicester.
 
-**Robert Lucas**
-*Funding data*
-
-Professor Robert Lucas, Director of Centre for Chronobiology, University of Manchester
-
 ![Andrew_Millar](https://user-images.githubusercontent.com/29427778/199304919-417de469-c138-45c2-a200-fb971a34400c.jpg)
 
 **Andrew Millar**
