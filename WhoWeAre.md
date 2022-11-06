@@ -10,7 +10,7 @@ title: Who we are
 Dr Robert Dallmann, Associate Professor of Chronomedicine, University of Warwick.
 
 Our research is focused on the interplay between the internal biological timing system and diseases as well as their treatment. For example, clocks modulate drug uptake in the body and their excretion as well as metabolism. The perspective of this work includes to improve already existing treatments and to aid in the development of new drugs.
-[www.warwick.ac.uk/chrono]
+[www.warwick.ac.uk/chrono](www.warwick.ac.uk/chrono)
 @r_dallmann
 
 
@@ -22,7 +22,7 @@ Our research is focused on the interplay between the internal biological timing 
 Professor Antony Dodd, Head of Cell and Developmental Biology, John Innes Centre, Norwich.
 
 Antony Dodd is a circadian biologist who studies the role of the circadian clock in the responses of organisms to their fluctuating environments. The lab uses plants and microbes as their main experimental models. We are obtaining new fundamental insights into the integration of circadian timing cues with other types of environmental information, and have interests in the circadian control of photosynthesis, abiotic stress tolerance, and plant-microbe interactions.
-[https://www.jic.ac.uk/people/antony-dodd/]
+[https://www.jic.ac.uk/people/antony-dodd/](https://www.jic.ac.uk/people/antony-dodd/)
 
 
 ![James_Hodge](https://user-images.githubusercontent.com/29427778/199304107-6c48c8c7-94a2-49e8-8498-027e94bd48f7.jpg)
@@ -33,8 +33,8 @@ Antony Dodd is a circadian biologist who studies the role of the circadian clock
 Dr James Hodge, Associate Professor of Neuroscience, University of Bristol.
 
 We study how neural circuit activity underlies circadian rhythms, sleep and memory using Drosophila, molecular genetics, electrophysiology, optogenetics and computational neuroscience. We are interested in the fundamental biology of these behaviours and how they evolved. We are also interested in how circadian rhythms, sleep and memory are affected by ageing, drugs and diseases including Alzheimer’s, Parkinson’s, Down’s, schizophrenia, neuropathies and epilepsy (using human brain tissue). We collaborate with clinicians and Industry to study these diseases and test novel drugs. Related to food security we study the effect of neonicotinoid insecticides on fly and bee circadian rhythms and sleep.
-(http://www.bristol.ac.uk/phys-pharm-neuro/people-new/hodge/)  
-(https://www.youtube.com/watch?v=MoS-9HgzCro)
+[(http://www.bristol.ac.uk/phys-pharm-neuro/people-new/hodge/](http://www.bristol.ac.uk/phys-pharm-neuro/people-new/hodge/)  
+[https://www.youtube.com/watch?v=MoS-9HgzCro)](https://www.youtube.com/watch?v=MoS-9HgzCro)
 
 
 **Rebecca Hughes**
@@ -78,7 +78,7 @@ Dr Nina Rzechorzek, MRC Clinician Scientist Fellow, brain temperature and neural
 Hosted by the O’Neill Lab, I am a physiologist and clinical academic, specialising in veterinary neurology and neurosurgery. My research focuses on brain temperature and how this interacts with the molecular circadian clockwork in human brain cells. The human brain can no longer be viewed as an isothermal machine. This demands a reappraisal of how daily neuronal activity is regulated and raises questions about how brain-injured patients are managed. In particular, I want to understand how changes in brain temperature variability might predict and influence the manifestation of chronic brain disorders. Circadian and sleep disruption are increasingly associated with these disorders, but the impact of temperature variation on the neural clockwork and brain health is largely unexplored.
 Transitioning to independence, I aim to address some of the prevailing controversies in neural chronobiology from a thermal perspective. My goal is to transform the therapeutic landscape for brain disease by understanding how brain clocks work, and how the brain works around the clock.
 
-(https://www.youtube.com/watch?v=pHc2d0wqjzA&t)
+[https://www.youtube.com/watch?v=pHc2d0wqjzA&t](https://www.youtube.com/watch?v=pHc2d0wqjzA&t)
 
 **Malcolm von Schantz**
 *Publication data*
@@ -96,7 +96,7 @@ Professor Daniel Smith, Head of Division of Psychiatry, University of Edinburgh
 
 I am a clinical academic psychiatrist with research interests in four main areas: 1. The genetic epidemiology of mood disorders (particularly bipolar disorder); 2.Data science and mental health informatics research; 3. Understanding comorbidity between mental and physical health disorders; 4. Sleep and circadian health as they relate to mood disorders. I have recently established an interdisciplinary Chronopsychiatry Research Group at the University of Edinburgh, to drive forward research at the interface between mental health and sleep/circadian science. 
 (Chronopsychiatry.github.io)
-(https://www.ed.ac.uk/profile/professor-daniel-j-smith)
+[https://www.ed.ac.uk/profile/professor-daniel-j-smith](https://www.ed.ac.uk/profile/professor-daniel-j-smith)
 
 
 ![Tyler_Stevenson](https://user-images.githubusercontent.com/29427778/199307362-2e498d07-9218-4dc0-b566-bff4bbf522a2.jpg)
@@ -107,7 +107,7 @@ I am a clinical academic psychiatrist with research interests in four main areas
 Dr Tyler Stevenson, Head of Physiology, Ageing & Welfare; School of Biodiversity, One Health, & Veterinary Medicine; University of Glasgow. 
 
 Our research examines the evolution, development and mechanisms of seasonal rhythms. We use a range of animal models to interrogate the genetic, molecular, cellular and neural basis of seasonal oscillations in physiology and behaviour. We take advantage of a diverse set of methods and tools including genome and transcriptome sequencing, chromatin modelling, gene editing, cell culture, hormone assays and a comprehensive set of behavioural analyses. Our latest discovery was the identification that pituitary cells have independent interval timers that programmed molecular changes to anticipate future seasonal conditions. 
-(https://www.gla.ac.uk/schools/bohvm/staff/tylerstevenson/)
+[https://www.gla.ac.uk/schools/bohvm/staff/tylerstevenson/](https://www.gla.ac.uk/schools/bohvm/staff/tylerstevenson/)
 
 
 
