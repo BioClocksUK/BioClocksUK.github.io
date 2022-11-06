@@ -12,7 +12,7 @@ We’re also working on a new website, which will soon be linked from here
 
  <iframe src="clock-clubbers.html" title="Members location" style="width: 100%; height: 600px;"></iframe> 
  
- *UK BioClocks members locations*
+ *Locations of BioClocks UK members, August 2022*
 
 **Next Meeting of the UK Clock Club: 02 Feb 2023, 09:30 GMT, University of Surrey.** 
 
