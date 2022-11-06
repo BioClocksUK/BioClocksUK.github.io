@@ -34,7 +34,7 @@ Dr James Hodge, Associate Professor of Neuroscience, University of Bristol.
 
 We study how neural circuit activity underlies circadian rhythms, sleep and memory using Drosophila, molecular genetics, electrophysiology, optogenetics and computational neuroscience. We are interested in the fundamental biology of these behaviours and how they evolved. We are also interested in how circadian rhythms, sleep and memory are affected by ageing, drugs and diseases including Alzheimer’s, Parkinson’s, Down’s, schizophrenia, neuropathies and epilepsy (using human brain tissue). We collaborate with clinicians and Industry to study these diseases and test novel drugs. Related to food security we study the effect of neonicotinoid insecticides on fly and bee circadian rhythms and sleep.
 [http://www.bristol.ac.uk/phys-pharm-neuro/people-new/hodge/](http://www.bristol.ac.uk/phys-pharm-neuro/people-new/hodge/)  
-[https://www.youtube.com/watch?v=MoS-9HgzCro)](https://www.youtube.com/watch?v=MoS-9HgzCro)
+[https://www.youtube.com/watch?v=MoS-9HgzCro](https://www.youtube.com/watch?v=MoS-9HgzCro)
 
 
 **Rebecca Hughes**
@@ -77,7 +77,6 @@ Dr Nina Rzechorzek, MRC Clinician Scientist Fellow, brain temperature and neural
 
 Hosted by the O’Neill Lab, I am a physiologist and clinical academic, specialising in veterinary neurology and neurosurgery. My research focuses on brain temperature and how this interacts with the molecular circadian clockwork in human brain cells. The human brain can no longer be viewed as an isothermal machine. This demands a reappraisal of how daily neuronal activity is regulated and raises questions about how brain-injured patients are managed. In particular, I want to understand how changes in brain temperature variability might predict and influence the manifestation of chronic brain disorders. Circadian and sleep disruption are increasingly associated with these disorders, but the impact of temperature variation on the neural clockwork and brain health is largely unexplored.
 Transitioning to independence, I aim to address some of the prevailing controversies in neural chronobiology from a thermal perspective. My goal is to transform the therapeutic landscape for brain disease by understanding how brain clocks work, and how the brain works around the clock.
-
 [https://www.youtube.com/watch?v=pHc2d0wqjzA&t](https://www.youtube.com/watch?v=pHc2d0wqjzA&t)
 
 **Malcolm von Schantz**
