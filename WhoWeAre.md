@@ -40,7 +40,7 @@ We study how neural circuit activity underlies circadian rhythms, sleep and memo
 **Rebecca Hughes**
 *Funding data*
 
-Dr Rebecca Hughes, PDRA, University of Manchester
+Dr Rebecca Hughes, PDRA, University of Manchester.
 
 **Bambos Kyriacou**
 
@@ -56,7 +56,7 @@ Professor C.P. (Bambos) Kyriacou, Professor of Behavioural Neurogenetics, Univer
 Professor Andrew Millar FRS FRSE, Chair of Systems Biology, SynthSys and School of Biological Sciences; University of Edinburgh
 
 Andrew Millar is a circadian systems biologist, and a past recipient of Aschoff’s Rule, a lifetime contribution award for chronobiology. Millar’s research group did experiments and modelling of plant and algal clocks. In parallel, Tomasz Zielinski in the group set up online management, analysis and visualisation of research data on biological clocks. The public [BioDare2](https://biodare2.ed.ac.uk) resource  now holds over 1M time series from many species, some of which are Open. Andrew and Tomasz lead the University of Edinburgh’s Biological Research Data Management team, BioRDM.
-Andrew’s other interests include science policy and macroeconomics
+Andrew’s other interests include science policy and macroeconomics.
 
 ![Hannah_Rees](https://user-images.githubusercontent.com/29427778/199305926-22d154d1-8309-44d0-9e78-502ad3e5beec.jpg)
 
@@ -94,7 +94,7 @@ Professor Malcolm von Schantz, Deputy Pro Vice-Chancellor, Psychology, Universit
 Professor Daniel Smith, Head of Division of Psychiatry, University of Edinburgh
 
 I am a clinical academic psychiatrist with research interests in four main areas: 1. The genetic epidemiology of mood disorders (particularly bipolar disorder); 2.Data science and mental health informatics research; 3. Understanding comorbidity between mental and physical health disorders; 4. Sleep and circadian health as they relate to mood disorders. I have recently established an interdisciplinary Chronopsychiatry Research Group at the University of Edinburgh, to drive forward research at the interface between mental health and sleep/circadian science. 
-(Chronopsychiatry.github.io)
+[Chronopsychiatry.github.io](Chronopsychiatry.github.io)
 [https://www.ed.ac.uk/profile/professor-daniel-j-smith](https://www.ed.ac.uk/profile/professor-daniel-j-smith)
 
 
