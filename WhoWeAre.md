@@ -94,7 +94,7 @@ Professor Malcolm von Schantz, Deputy Pro Vice-Chancellor, Psychology, Universit
 Professor Daniel Smith, Head of Division of Psychiatry, University of Edinburgh
 
 I am a clinical academic psychiatrist with research interests in four main areas: 1. The genetic epidemiology of mood disorders (particularly bipolar disorder); 2.Data science and mental health informatics research; 3. Understanding comorbidity between mental and physical health disorders; 4. Sleep and circadian health as they relate to mood disorders. I have recently established an interdisciplinary Chronopsychiatry Research Group at the University of Edinburgh, to drive forward research at the interface between mental health and sleep/circadian science. 
-[Chronopsychiatry.github.io](Chronopsychiatry.github.io)
+[Chronopsychiatry.github.io](Chronopsychiatry.github.io)  
 [https://www.ed.ac.uk/profile/professor-daniel-j-smith](https://www.ed.ac.uk/profile/professor-daniel-j-smith)
 
 
